@@ -23,7 +23,7 @@ module.exports = {
         Partials.Message
     ],
 
-    botActivity: "Thinking About You! | /help",
+    botActivity: "Teto-chan! | /help",
     botStatus: "online",
     botURL: "", // Bot's URL for streaming. Automatically credits me if the botType is streaming!
     botType: ActivityType.Playing,
