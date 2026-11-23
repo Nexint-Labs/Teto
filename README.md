@@ -1,9 +1,12 @@
-# Prism
+# TetoBot
+
+Note: This bot is a Prism fork.
 
 **The Next Level Discord Bot!**
-Prism is an open-source, modular Discord bot built using Node.js and Discord.js. It supports a variety of commands, utilities, moderation tools, and integrations with NexAPI.
 
-Originally built on OpenBot, Prism now uses a modular configuration system and shared command architecture.
+Teto is an open-source, modular Discord bot built using Node.js and Discord.js. It supports a variety of commands, utilities, moderation tools, and integrations with NexAPI.
+
+Originally built on OpenBot, Teto now uses a modular configuration system and shared command architecture.
 
 ## Features
 
@@ -17,7 +20,7 @@ Originally built on OpenBot, Prism now uses a modular configuration system and s
 
 ## Current Deployments
 
-Prism and its related codebase are deployed across several Discord applications:
+Teto and its related codebase are deployed across several Discord applications:
 
 - Miku#0100
 - Teto#4311
@@ -29,7 +32,7 @@ Feature availability may differ between deployments.
 
 ## AI Disclosure
 
-Prism was developed with the assistance of AI. However, I independently reviewed the current v2 release and made sure the code is suitable for public release.
+Teto was developed with the assistance of AI. However, I independently reviewed the current v2 release and made sure the code is suitable for public release.
 
 I wrote the majority of the bot's original foundation myself. ChatGPT primarily assisted with migrations, debugging, code reviews, and architectural improvements.
 
@@ -71,7 +74,7 @@ Documentation does not exist, but may be generated with Codex.
 
 ## Configuration
 
-Prism uses a modular configuration system to make configuration easier!
+Teto uses a modular configuration system to make configuration easier!
 
 Configuration files are organized into directories such as:
 
@@ -94,7 +97,7 @@ rather than committed to the repository.
 
 **Error: Used Disallowed Intents**
 
-Enable the required privileged gateway intents in the Discord Developer Portal under your application's Bot settings. Make sure they match the intents configured by Prism. Some privileged intents require Discord approval for eligible verified bots.
+Enable the required privileged gateway intents in the Discord Developer Portal under your application's Bot settings. Make sure they match the intents configured by Teto. Some privileged intents require Discord approval for eligible verified bots.
 
 **Do I need a Guild ID?**
 
@@ -112,7 +115,7 @@ The legacy Tenor integration is deprecated.
 
 ## Notes
 
-- Prism supports modular plugins and shared utility functions.
+- Teto supports modular plugins and shared utility functions.
 - Some legacy commands have been consolidated into modern command groups.
 - The compatibility deployment may retain older commands.
 - The project is undergoing ongoing modernization, including Discord Components V2 migration.
@@ -122,7 +125,7 @@ The legacy Tenor integration is deprecated.
 
 This project is open-source. Usage is governed by the applicable project license first and my Nex TOS: [https://nexint.ca/tos](https://nexint.ca/tos) otherwise.
 
-Prism is built on OpenBot, another project I own:
+Teto is built on OpenBot, another project I own:
 
 [https://github.com/Nexints/open-bot](https://github.com/Nexints/open-bot)
 
