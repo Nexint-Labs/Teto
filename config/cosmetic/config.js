@@ -1,4 +1,5 @@
 module.exports = {
     pluginName: "Teto", // Plugin Name lol
-    pluginVer: "0.7.0-dev"
+    pluginVer: "0.7.0-dev",
+    pluginFile: "teto.jpg"
 }
